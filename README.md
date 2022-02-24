@@ -1,5 +1,8 @@
 # SecuringAngularClient
 
+This is a simple setup of how  OAuth 2 and OpenId Connect (OIDC) in Angular works.
+A simple template to help you setup and understand flow of the authentication and Authorization
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
 ## Development server
